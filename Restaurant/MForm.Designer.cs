@@ -255,11 +255,11 @@
             // 
             // buttonAdd
             // 
-            this.buttonAdd.Location = new System.Drawing.Point(774, 506);
+            this.buttonAdd.Location = new System.Drawing.Point(774, 483);
             this.buttonAdd.Name = "buttonAdd";
-            this.buttonAdd.Size = new System.Drawing.Size(75, 23);
+            this.buttonAdd.Size = new System.Drawing.Size(119, 36);
             this.buttonAdd.TabIndex = 17;
-            this.buttonAdd.Text = "button1";
+            this.buttonAdd.Text = "Добавить блюдо";
             this.buttonAdd.UseVisualStyleBackColor = true;
             this.buttonAdd.Click += new System.EventHandler(this.buttonAdd_Click);
             // 
